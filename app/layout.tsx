@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Car Hub",
-  description: "Discover world's best car showcase application",
+  title: "Stove",
+  description: "Meet Stove, the best way to cook your food.",
 };
 
 export default function RootLayout({
